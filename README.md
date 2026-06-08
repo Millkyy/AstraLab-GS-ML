@@ -133,7 +133,7 @@ A aplicação foi publicada no **Streamlit Community Cloud**.
 Link da aplicação em funcionamento:
 
 ```text
-:)
+https://astralab-gs-ml-app.streamlit.app/
 ```
 
 Link do repositório GitHub:
