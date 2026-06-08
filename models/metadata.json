@@ -1,0 +1,36 @@
+{
+  "best_model": "LogisticRegression",
+  "target": "priority_label",
+  "drop_cols": [
+    "sample_id",
+    "scientific_value_score"
+  ],
+  "numeric_cols": [
+    "mission_day",
+    "latitude",
+    "longitude",
+    "distance_to_rover_m",
+    "battery_remaining_pct",
+    "comm_delay_s",
+    "radiation_msv_h",
+    "temperature_c",
+    "spectral_ice_index",
+    "spectral_metal_index",
+    "image_confidence",
+    "storage_remaining_kg",
+    "sample_mass_g",
+    "slope_deg"
+  ],
+  "categorical_cols": [
+    "terrain_type"
+  ],
+  "classes": [
+    "Alta",
+    "Baixa",
+    "Media"
+  ],
+  "dataset_shape": [
+    1200,
+    18
+  ]
+}

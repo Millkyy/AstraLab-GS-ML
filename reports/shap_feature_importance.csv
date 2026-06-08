@@ -1,0 +1,13 @@
+feature,mean_abs_shap
+spectral_ice_index,1.516305422108774
+spectral_metal_index,1.0978722121423738
+distance_to_rover_m,0.8999408735433392
+battery_remaining_pct,0.6712138449760298
+comm_delay_s,0.5355304636170855
+slope_deg,0.48645832843891673
+terrain_type_gelo_suspeito,0.45421901698197437
+storage_remaining_kg,0.33179217855056137
+terrain_type_metalico,0.2944663803500893
+terrain_type_poeira_fina,0.2926312367252037
+terrain_type_regolitho,0.27977570539420793
+longitude,0.08519903600914537
